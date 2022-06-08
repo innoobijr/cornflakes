@@ -1,0 +1,3 @@
+[submodule "lib/tas"]
+	path = lib/tas
+	url = git@github.com:innoobijr/tas.git
